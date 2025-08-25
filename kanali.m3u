@@ -1,3 +1,17 @@
-https://iptv-org.github.io/channels/rs/B1#SD
-https://iptv-org.github.io/channels/rs/B92#SD
-https://iptv-org.github.io/channels/rs/DMSat#SD
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="Serbia",RTS 1
+https://mtslive.mts.rs/rtshls/RTS1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Serbia",RTS 2
+https://mtslive.mts.rs/rtshls/RTS2.m3u8
+
+#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV" group-title="Serbia",Prva TV
+https://mtslive.mts.rs/rtshls/PRVA.m3u8
+
+#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92" group-title="Serbia",B92
+https://mtslive.mts.rs/rtshls/B92.m3u8
+
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="Pink" group-title="Serbia",Pink
+https://mtslive.mts.rs/rtshls/PINK.m3u8
+
