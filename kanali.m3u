@@ -1,18 +1,76 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="Serbia",RTS 1
-https://mtslive.mts.rs/rtshls/RTS1.m3u8
+# ===== SRBIJA =====
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/RTS_logo.png" group-title="Srbija",RTS 1
+https://rtsplaneta.rs/uzivo
 
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Serbia",RTS 2
-https://mtslive.mts.rs/rtshls/RTS2.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/RTS_logo.png" group-title="Srbija",RTS 2
+https://rtsplaneta.rs/uzivo
 
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV" group-title="Serbia",Prva TV
-https://mtslive.mts.rs/rtshls/PRVA.m3u8
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1" group-title="Srbija",RTV 1
+https://media.rtv.rs/uzivo/rtv1
 
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92" group-title="Serbia",B92
-https://mtslive.mts.rs/rtshls/B92.m3u8
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-name="RTV 2" group-title="Srbija",RTV 2
+https://media.rtv.rs/uzivo/rtv2
 
-#EXTINF:-1 tvg-id="Pink.rs" tvg-name="Pink" group-title="Serbia",Pink
-https://mtslive.mts.rs/rtshls/PINK.m3u8
+#EXTINF:-1 tvg-id="Happy.rs" tvg-name="Happy TV" group-title="Srbija",Happy TV
+https://happytv.rs/live
 
-https://iptv-org.github.io/channels/rs/DMSat#SD.m3u8
+#EXTINF:-1 tvg-id="KCN1.rs" tvg-name="KCN 1" group-title="Srbija",KCN 1
+https://www.kcnonline.rs/uzivo/kcn1
+
+#EXTINF:-1 tvg-id="KCN2.rs" tvg-name="KCN 2" group-title="Srbija",KCN 2
+https://www.kcnonline.rs/uzivo/kcn2
+
+#EXTINF:-1 tvg-id="KCN3.rs" tvg-name="KCN 3" group-title="Srbija",KCN 3
+https://www.kcnonline.rs/uzivo/kcn3
+
+# ===== HRVATSKA =====
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" group-title="Hrvatska",HRT 1
+https://hrti.hrt.hr/live/hrt1
+
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" group-title="Hrvatska",HRT 2
+https://hrti.hrt.hr/live/hrt2
+
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" group-title="Hrvatska",HRT 3
+https://hrti.hrt.hr/live/hrt3
+
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" group-title="Hrvatska",HRT 4
+https://hrti.hrt.hr/live/hrt4
+
+#EXTINF:-1 tvg-id="N1.hr" tvg-name="N1 Hrvatska" group-title="Hrvatska",N1 Hrvatska
+https://n1info.hr/video/live-stream/
+
+# ===== BOSNA I HERCEGOVINA =====
+#EXTINF:-1 tvg-id="BHT.ba" tvg-name="BHT 1" group-title="BiH",BHT 1
+https://www.bhrt.ba/uzivo
+
+#EXTINF:-1 tvg-id="FaceTV.ba" tvg-name="Face TV" group-title="BiH",Face TV
+https://www.facetv.ba/uzivo
+
+#EXTINF:-1 tvg-id="N1.ba" tvg-name="N1 BiH" group-title="BiH",N1 BiH
+https://ba.n1info.com/video/live-stream/
+
+# ===== CRNA GORA =====
+#EXTINF:-1 tvg-id="RTCG1.me" tvg-name="RTCG 1" group-title="Crna Gora",RTCG 1
+https://rtcg.me/uzivo/rtcg1
+
+#EXTINF:-1 tvg-id="RTCG2.me" tvg-name="RTCG 2" group-title="Crna Gora",RTCG 2
+https://rtcg.me/uzivo/rtcg2
+
+# ===== SEVERNA MAKEDONIJA =====
+#EXTINF:-1 tvg-id="MRT1.mk" tvg-name="MRT 1" group-title="Makedonija",MRT 1
+https://mrt.com.mk/node/41008
+
+#EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MRT 2" group-title="Makedonija",MRT 2
+https://mrt.com.mk/node/41008
+
+# ===== REGIONALNI =====
+#EXTINF:-1 tvg-id="Euronews.rs" tvg-name="Euronews Srbija" group-title="Regionalni",Euronews Srbija
+https://euronews.rs/live
+
+#EXTINF:-1 tvg-id="AJB.ba" tvg-name="Al Jazeera Balkans" group-title="Regionalni",Al Jazeera Balkans
+https://balkans.aljazeera.net/watch/live
+
+#EXTINF:-1 tvg-id="DW.en" tvg-name="DW English" group-title="Internacionalni",DW English
+https://www.dw.com/live
